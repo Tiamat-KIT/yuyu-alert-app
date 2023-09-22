@@ -1,2 +1,0 @@
-schedule
-line-bot-sdk
